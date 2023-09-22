@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MidnightTestTask/Scenes/MainMenu.unity
+    guid: bb3ea7d5e5c0509498065d08b771a9d8
+  - enabled: 1
+    path: Assets/MidnightTestTask/Scenes/LoadingScene.unity
+    guid: d06893ec8ca290d4c98349e7c476b3a1
+  - enabled: 1
+    path: Assets/MidnightTestTask/Scenes/Lobby.unity
+    guid: af7957a24b51e7e43acf80b6a4c4269f
+  - enabled: 1
+    path: Assets/MidnightTestTask/Scenes/GamePlaySceneOffline.unity
+    guid: d05c07244ed6a3740be3bdad186521e6
+  - enabled: 1
+    path: Assets/MidnightTestTask/Scenes/GamePlaySceneOnline.unity
+    guid: 5ce31a972584cd64f9b0f1f30a295034
+  m_configObjects: {}

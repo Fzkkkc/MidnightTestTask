@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07dd3e70-960e-4ce0-9338-79a7bf375c23" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/MainMenu/Volume/VolumeEngineSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/AdsSDK/Initializeads.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C399EFC0-8928-422D-8828-D74A2B19FFBA/8c/64bd6d49/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/SceneManagement/SceneLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/UI/Transition/TransitionAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/UI/EndPanel/EndPanelButtons/EndPanelEarnMoreButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/Multiplayer/CreateAndJoinRooms.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/MainMenu/Popups/SelectModePopup/SelectPopupCloseButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/MainMenu/PlayerCoins/PlayerBankMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/Car/CarColor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/Multiplayer/ConnectToServer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/Multiplayer/SpawnPlayers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MidnightTestTask/Editor/TaskEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E7F2B840-7DC4-41F2-8814-515D15959B55/ca/df753afd/WheelFrictionCurve.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/Player/InputPlayer/TouchInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/UI/DriftScore/DriftScore.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/UI/Timer/Timer.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/UI/Timer/EndPanelAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/UI/EndPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/UI/PlayerCoinsCountText.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/UI/DriftScore/UIDriftScoreText.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/Player/PlayerCoinsCount.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/UI/EndPanelCoinsWonCountText.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/UI/EndPanel/EndPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/UI/PlayerUIStats/PlayerCoinsCountText.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/UI/Timer/MainTimer.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/MainMenu/Popups/CustomizationPopup/PopupCustomization.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/MainMenu/Popups/CustomizationPopup/CustomizationButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/MainMenu/Popups/CustomizationPopup/CustomizationCloseButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/MainMenu/Popups/CustomizationPopup/CustomizationOpenButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/MainMenu/Popups/SettingsPopup/SettingsCloseButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/MainMenu/Popups/SettingsPopup/SettingsOpenButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/MainMenu/Popups/SettingsPopup/PopupSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/MainMenu/Volume/VolumeSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/MainMenu/Volume/VolumeEngineSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/MainMenu/Volume/VolumeDriftSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/MainMenu/MainButtons/CustomizationOpenButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/MainMenu/MainButtons/SettingsOpenButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/UI/Transition/TransitionAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/UI/EndPanel/EndPanelMenuButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/Volume/VolumeCarEngine.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/Volume/VolumeCarDrift.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/Car/CarColor.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/UI/EndPanel/EndPanelCoinsWonCountText.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/MainMenu/PlayerCoins/PlayerBankMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/MainMenu/Popups/CustomizationPopup/CarColorCustomization.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/MainMenu/Popups/SelectModePopup/PopupSelectMode.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/MainMenu/Popups/SelectModePopup/SelectPopupCloseButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/MainMenu/MainButtons/PlayButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/SceneManagement/NextScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/MainMenu/Popups/SelectModePopup/OfflineButtonPopupSelectMode.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/MainMenu/Popups/SelectModePopup/OnlineButtonPopupSelectMode.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/Multiplayer/ConnectToServer.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/Multiplayer/CreateAndJoinRooms.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/SceneManagement/SceneLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/UI/EndPanel/EndPanelButtons/EndPanelMenuButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/Multiplayer/SpawnPlayers.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/Car/CarController.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/UI/DriftScore/PlayerDriftScore.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/CameraPreference/CameraFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/UI/EndPanel/EndPanelAppearAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/AdsSDK/Initializeads.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/AdsSDK/Rewarded.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/Player/PlayerBank/PlayerCoinsCount.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidnightTestTask/Scripts/UI/EndPanel/EndPanelButtons/EndPanelEarnMoreButton.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2VIAWlnNkSqX7AqBppO8kotGiO4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../gamesUnity/MidnightTestTask.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="D:\gamesUnity" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07dd3e70-960e-4ce0-9338-79a7bf375c23" name="Default Changelist" comment="" />
+      <created>1694513261125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694513261125</updated>
+      <workItem from="1694513279263" duration="6806000" />
+      <workItem from="1694554142282" duration="1203000" />
+      <workItem from="1695215177981" duration="12307000" />
+      <workItem from="1695297296921" duration="12981000" />
+      <workItem from="1695379643269" duration="13884000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="699" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1694514025633">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="699" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1694514025633" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1695312436741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1695312436741" />
+  </component>
+</project>
